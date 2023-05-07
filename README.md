@@ -11,8 +11,6 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
 On the main webpage, the information is organized into four main sections. Learn more about each of the heading subjects by reading the bullet points underneath.
 
 To see a JavaScript function in action, access Chrome's 'Inspector' feature and choose the Console tab. The code lists the topics of study and suggests where to begin. By refreshing the webpage, the suggestion will change.
